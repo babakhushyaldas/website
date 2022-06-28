@@ -2,7 +2,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Times New Roman, Open Sans, sans-serif";
+  font-family: sans-serif;
   color: #444444;
 }
 
@@ -17,7 +17,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -366,7 +366,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   line-height: 56px;
   color: #fff;
-  font-family: "Poppins", sans-serif;
+  font-family: sans-serif;
 }
 #hero h2 {
   color: #eee;
@@ -374,7 +374,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 24px;
 }
 #hero .btn-get-started {
-  font-family: "Raleway", sans-serif;
+  font-family: sans-serif;
   font-weight: 500;
   font-size: 15px;
   letter-spacing: 1px;
