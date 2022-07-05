@@ -417,6 +417,10 @@ section {
   overflow: hidden;
 }
 
+.gallery-section {
+  padding: 10px !important;
+}
+
 .section-bg {
   background-color: #f6f7f6;
 }
