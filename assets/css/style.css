@@ -417,8 +417,8 @@ section {
   overflow: hidden;
 }
 
-.gallery-section {
-  padding: 10px !important;
+section.gallery-section {
+  padding: 20px;
 }
 
 .section-bg {
